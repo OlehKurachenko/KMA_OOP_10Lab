@@ -44,6 +44,10 @@ The following instructions were given:
 >   Sequence& doremove();
 >   Sequence (const Sequence&);
 >   Sequence& operator=(const Sequence&);
-> }
+> };
 > ```
+
+## Comments to Task
+
+...nothing yet.
   
